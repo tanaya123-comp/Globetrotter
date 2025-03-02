@@ -51,7 +51,7 @@ The Globetrotter app is an interactive travel guessing game where users guess fa
 ## 4. **GET /api/user-score/:username**
 - **Description**: Fetches the highest score of a user by their username
 
-## 5. **POST /api/game **
+## 5. **POST /api/game**
 - **Description**: Adds a completed game session and updates the user's highest score if necessary.
 
 ## 6. **POST /api/user-score**
